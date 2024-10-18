@@ -1,8 +1,8 @@
 ## Bonjour! Je m'appele Denilza Lopes 👋
 
-- 🔭 Developeuse Fullstack et Developpeuse Logiciel Multiplateforme
-- 🌱 Estudando cloud Azure 
-- 😄 Pronouns: ela/dela
+- 🔭 Developeuse Fullstack - Developpeuse Logiciel Multiplateforme - Cloud Azure
+- 🌱 
+- 😄 Pronouns: elle
 
 <div>
   <a href="https://https://github.com/denilzalopes/">
