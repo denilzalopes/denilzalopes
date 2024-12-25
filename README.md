@@ -1,6 +1,6 @@
 ## Bonjour! Je m'appele Denilza Lopes 👋
 
-- 🔭 Développeuse Full Stack & Experte Accessibilité Numérique | Microsoft Azure | IA | IHM | Java/Python
+- 🔭 Développeuse Java/Spring Boot | Accessibilité Numérique et Architectures Scalable | IHM | Microsoft Azure | IA
 
 <div>
   <a href="https://https://github.com/denilzalopes/">
